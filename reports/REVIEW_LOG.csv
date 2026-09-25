@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,car,added,AI missed a car so added bounding box
+1,frame_0107.jpg,car,edited,Adjusted bounding box to visible vehicle body
+1,frame_0182.jpg,car,deleted,Removed false positive that was not a vehicle
